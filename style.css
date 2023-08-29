@@ -25,6 +25,27 @@ body{
     color: white;
     padding: 20px;
     font-size: 25px;
-    position: relative;
-    top: 100px;
+    /* position: relative;
+    top: 100px; */
+    padding-top: 100px;
 }
+
+.names{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding-top: 50px; 
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.pitaji{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    text-decoration: underline;
+    padding-top: 20px;
+    color: rgb(206, 145, 145);
+    font-weight: bold;
+    font-size: 20px;
+}
+ 
