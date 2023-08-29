@@ -1,0 +1,22 @@
+.menu{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.menu ul{
+    list-style: none;
+    display: inline-flex;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menu ul li:hover{
+    background:rgb(220, 105, 105);
+    width: 200px;
+    border-radius: 10px;
+}

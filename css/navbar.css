@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+}
+
+.nav_right{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.logo{
+    width: 100px;
+    height: 30px;
+}

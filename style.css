@@ -1,0 +1,30 @@
+@import url(css/navbar.css);
+@import url(css/menu.css);
+
+
+
+body{
+    background-image: url(assets/seva.jpg);
+}
+
+/* .box{
+    background-color: yellow;
+    width: 30px;
+    height: 50px;
+}
+
+.name{
+    font-family: 'Poppins', sans-serif;
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+} */
+
+.text{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    position: relative;
+    top: 100px;
+}
